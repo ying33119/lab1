@@ -1,0 +1,13 @@
+Script started on 2016年03月14日 (週一) 11時17分48秒
+]0;H34046018@2015cpp: ~[01;32mH34046018@2015cpp[00m:[01;34m~[00m$ whoami; pwd
+H34046018
+/home/H34046018
+]0;H34046018@2015cpp: ~[01;32mH34046018@2015cpp[00m:[01;34m~[00m$ git config -l
+]0;H34046018@2015cpp: ~[01;32mH34046018@2015cpp[00m:[01;34m~[00m$ git clone https://gothub[K[K[K[K[Kithub.com/ying33119/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;H34046018@2015cpp: ~[01;32mH34046018@2015cpp[00m:[01;34m~[00m$ ls
+[0m[01;34mlab1[0m  lab1.script
+]0;H34046018@2015cpp: ~[01;32mH34046018@2015cpp[00m:[01;34m~[00m$ exit
+
+Script done on 2016年03月14日 (週一) 11時20分41秒
